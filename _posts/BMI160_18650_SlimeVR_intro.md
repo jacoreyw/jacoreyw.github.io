@@ -1,0 +1,60 @@
+# **SLIME VR BMI160 trackers with 18650 PSU**
+
+### The idea behind this project:
+
+Vive trackers are not only expensive but also require either harmounting base stations to the wall or using tripods. This can ultimately
+shrink the allowed usable space for the end-user. it's also very expensive for what I personally view as a very simple concept. For a while
+I thought about my experience with using flight controllers in building, programming, and flying FPV quadcopters and a large part of the reasoning
+for why these quadcopters can fly the way that they do is because of the IMUs onboard these flight controllers. An IMU is an "Inertial Measurement Unit"
+these are found in smartphones, game controllers, and vehicles. Luckily an open source project known as Slime VR created a software used specifically for VR gaming
+that utilizes these IMUs and can connect to any computer or smartphone running their server via 2.4ghz Wi-Fi radio connection. They do have a product available for purchase,
+but these are made to order and wait times for batches have gotten a bit extreme. So I decided instead of waiting for the next batch why not just build them myself?
+I reasearched pros and cons of each compenent, watched some demonstrations and even comparisons on how each component works, and even did some cost analysis on how expensive
+or inexpensive of a product could be built that would still deliver a desireable experience for the end-user. 
+
+### Goals for this project:
+
+- *Create something easy to replicate*
+- *has to be serviceable for maintenance/repair by the end-user*
+- *parts have to be readily available*
+- *fit and finish needs to be comfortable*
+- *needs to be more convenient to use than available alternatives*
+- *cost needs to be reasonable*
+- *needs to function properly*
+
+### Components:
+
+- 18650 batteries x5 (MXJO 2500mah 20A $4.99 / $24.95)
+- 18650 sleds ($7.99)
+- BMI160 IMU x5 ($6.79 / $33.95)
+- Wemos D1 mini ($14.99)
+- TP4056 charging board ($10.99)
+- SS22F32 switches ($10.69)
+- 1N5817 diodes ($6.99)
+- 180k ohm resistors ($5.49)
+- 24g wire ($11.48)
+- 5-pin JST connectors ($8.59)
+- Custom PCBs from JST PCB ($15)
+- velcro straps ($9.99)
+- 3D printer/injection mold access
+
+**total cost: $161.10**
+
+this is cost break down of a core set meeaning this is the absolute base number of trackers needed to run slime VR
+the wait time for these components took a week and a half to arrive to my door after initial order. at the time of writing this, and
+official core set directly from slimeVR on crowd supply goes for $173 with an ETA shipment time of 17 weeks from order.
+for 3 vive trackers, straps, and 2 base stations the absolute lowest price i could find this bundled for was $785.98 with an ETA shipment
+time of a week and a half to two weeks. The official set is priced quite fair in comparison but the wait time seemed very long to recieve
+the product ordered. The Vive trackers are more expensive than the headset im even using and they don't seem very convenient for travel or different
+spaces seeing as they require line of sight for operation. For people like myself who ran into this same issue at this current point in time
+the DIY approach seems to be the best option for affordable and convenient motion capture tracking.
+
+In the next post I will go over the process of building the trackers after receiving all the required components.
+
+
+
+
+
+
+
+
