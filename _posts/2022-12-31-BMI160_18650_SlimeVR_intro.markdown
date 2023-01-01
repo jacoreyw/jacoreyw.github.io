@@ -40,12 +40,12 @@ or inexpensive of a product could be built that would still deliver a desireable
 
 **total cost: $161.10**
 
-this is cost break down of a core set meeaning this is the absolute base number of trackers needed to run slime VR
+This is the cost break down of a core set meeaning this is the absolute base number of trackers needed to run slime VR
 the wait time for these components took a week and a half to arrive to my door after initial order. at the time of writing this, and
-official core set directly from slimeVR on crowd supply goes for $173 with an ETA shipment time of 17 weeks from order.
-for 3 vive trackers, straps, and 2 base stations the absolute lowest price i could find this bundled for was $785.98 with an ETA shipment
-time of a week and a half to two weeks. The official set is priced quite fair in comparison but the wait time seemed very long to recieve
-the product ordered. The Vive trackers are more expensive than the headset im even using and they don't seem very convenient for travel or different
+official core set directly from slimeVR on crowd supply goes for **$173** with an **ETA shipment time of 17 weeks from order.**
+for 3 vive trackers, straps, and 2 base stations the absolute lowest price I could find this bundled for was **$785.98** with an **ETA shipment
+time of a week and a half to two weeks.** The official set from SlimeVR is priced quite fair in comparison but the wait time seemed very long to recieve
+the product ordered. The Vive trackers are more expensive than the headset I'm even using and they don't seem very convenient for travel or different
 spaces seeing as they require line of sight for operation. For people like myself who ran into this same issue at this current point in time
 the DIY approach seems to be the best option for affordable and convenient motion capture tracking.
 
