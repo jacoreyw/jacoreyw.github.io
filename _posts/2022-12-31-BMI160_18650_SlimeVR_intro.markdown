@@ -51,7 +51,7 @@ the DIY approach seems to be the best option for affordable and convenient motio
 
 In the next post I will go over the process of building the trackers after receiving all the required components.
 
-
+![tracker schematic](https://jacoreyw.github.io/assets/schematic.jpg)
 
 
 
